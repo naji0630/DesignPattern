@@ -17,7 +17,7 @@ public class main {
 
         System.out.println("아기가 밥을 먹는다.");
         baby.performEat();
-        System.out.println("아기가 걷는다");
+        System.out.println("아기가 걷는다.");
         baby.performWalk();
 
         man.isDrunken = true;
